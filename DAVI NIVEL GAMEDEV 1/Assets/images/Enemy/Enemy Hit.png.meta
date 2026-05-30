@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -153,10 +153,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -180,7 +180,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -221,12 +221,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 2004
-        width: 207
-        height: 393
+        x: 0
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -243,12 +243,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_1
       rect:
         serializedVersion: 2
-        x: 353
-        y: 2004
-        width: 207
-        height: 393
+        x: 306
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -265,12 +265,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_2
       rect:
         serializedVersion: 2
-        x: 644
-        y: 2004
-        width: 219
-        height: 396
+        x: 612
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -287,12 +287,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_3
       rect:
         serializedVersion: 2
-        x: 937
-        y: 2004
-        width: 227
-        height: 396
+        x: 918
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -309,12 +309,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_4
       rect:
         serializedVersion: 2
-        x: 1238
-        y: 2004
-        width: 233
-        height: 396
+        x: 1224
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -331,12 +331,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_5
       rect:
         serializedVersion: 2
-        x: 1535
-        y: 2004
-        width: 242
-        height: 395
+        x: 1530
+        y: 2000
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -353,12 +353,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_6
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1604
-        width: 243
-        height: 394
+        x: 0
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,12 +375,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_7
       rect:
         serializedVersion: 2
-        x: 307
-        y: 1604
-        width: 246
-        height: 394
+        x: 306
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -398,11 +398,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 612
-        y: 1604
-        width: 247
-        height: 394
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -420,11 +420,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 918
-        y: 1604
-        width: 246
-        height: 394
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -441,12 +441,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_10
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 1604
-        width: 245
-        height: 394
+        x: 1224
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -463,12 +463,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_11
       rect:
         serializedVersion: 2
-        x: 1535
-        y: 1604
-        width: 240
-        height: 394
+        x: 1530
+        y: 1600
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_12
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1204
-        width: 236
-        height: 394
+        x: 0
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -507,12 +507,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_13
       rect:
         serializedVersion: 2
-        x: 316
-        y: 1204
-        width: 233
-        height: 394
+        x: 306
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -529,12 +529,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_14
       rect:
         serializedVersion: 2
-        x: 627
-        y: 1204
-        width: 228
-        height: 394
+        x: 612
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -551,12 +551,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_15
       rect:
         serializedVersion: 2
-        x: 938
-        y: 1204
-        width: 222
-        height: 394
+        x: 918
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -573,12 +573,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_16
       rect:
         serializedVersion: 2
-        x: 1245
-        y: 1204
-        width: 221
-        height: 394
+        x: 1224
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -595,12 +595,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_17
       rect:
         serializedVersion: 2
-        x: 1555
-        y: 1204
-        width: 217
-        height: 394
+        x: 1530
+        y: 1200
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -617,12 +617,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_18
       rect:
         serializedVersion: 2
-        x: 29
-        y: 804
-        width: 213
-        height: 394
+        x: 0
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -639,12 +639,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_19
       rect:
         serializedVersion: 2
-        x: 337
-        y: 804
-        width: 211
-        height: 394
+        x: 306
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -661,12 +661,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_20
       rect:
         serializedVersion: 2
-        x: 647
-        y: 804
-        width: 207
-        height: 395
+        x: 612
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,12 +683,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_21
       rect:
         serializedVersion: 2
-        x: 955
-        y: 804
-        width: 206
-        height: 395
+        x: 918
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -705,12 +705,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_22
       rect:
         serializedVersion: 2
-        x: 1265
-        y: 804
-        width: 207
-        height: 395
+        x: 1224
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -727,12 +727,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_23
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 804
-        width: 207
-        height: 395
+        x: 1530
+        y: 800
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -749,12 +749,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_24
       rect:
         serializedVersion: 2
-        x: 46
-        y: 404
-        width: 207
-        height: 394
+        x: 0
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -771,12 +771,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_25
       rect:
         serializedVersion: 2
-        x: 353
-        y: 404
-        width: 208
-        height: 394
+        x: 306
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -793,12 +793,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_26
       rect:
         serializedVersion: 2
-        x: 660
-        y: 404
-        width: 209
-        height: 393
+        x: 612
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -815,12 +815,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_27
       rect:
         serializedVersion: 2
-        x: 966
-        y: 404
-        width: 209
-        height: 393
+        x: 918
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -837,12 +837,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_28
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 404
-        width: 208
-        height: 393
+        x: 1224
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -859,12 +859,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_29
       rect:
         serializedVersion: 2
-        x: 1579
-        y: 404
-        width: 208
-        height: 393
+        x: 1530
+        y: 400
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -881,12 +881,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_30
       rect:
         serializedVersion: 2
-        x: 49
-        y: 4
-        width: 208
-        height: 393
+        x: 0
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,12 +903,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_31
       rect:
         serializedVersion: 2
-        x: 355
-        y: 4
-        width: 208
-        height: 393
+        x: 306
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -925,12 +925,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_32
       rect:
         serializedVersion: 2
-        x: 661
-        y: 4
-        width: 208
-        height: 393
+        x: 612
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_33
       rect:
         serializedVersion: 2
-        x: 967
-        y: 4
-        width: 208
-        height: 393
+        x: 918
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -969,12 +969,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_34
       rect:
         serializedVersion: 2
-        x: 1273
-        y: 4
-        width: 208
-        height: 393
+        x: 1224
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -991,12 +991,12 @@ TextureImporter:
       name: sprite-max-px-frames-36-rows-6-cols-6 (5)_35
       rect:
         serializedVersion: 2
-        x: 1579
-        y: 4
-        width: 208
-        height: 393
+        x: 1530
+        y: 0
+        width: 306
+        height: 400
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1013,7 +1013,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e75092927e3889548a0079d932ca9ae4
     internalID: 0
     vertices: []
     indices: 
@@ -1021,7 +1021,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":306.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sprite-max-px-frames-36-rows-6-cols-6 (5)_0: -8695412925841400544
       sprite-max-px-frames-36-rows-6-cols-6 (5)_1: -5210656372037338372
