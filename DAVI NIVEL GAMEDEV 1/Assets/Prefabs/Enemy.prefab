@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 9218518635744060887}
   - component: {fileID: 336124981191427859}
   - component: {fileID: 4958320323189889054}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: DamageZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
